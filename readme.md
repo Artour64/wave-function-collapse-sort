@@ -1,2 +1,4 @@
 # Wave Function Collapse Sort
-an attempt at applying the wave function collapse algorithm to sorting
+An attempt at applying the wave function collapse algorithm to sorting
+
+Reused most of the code from this repository: https://github.com/Artour64/sort-visualiser
